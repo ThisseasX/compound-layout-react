@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/compount-layout-react/static/css/main.8f70261c.css",
+    "main.js": "/compount-layout-react/static/js/main.e219fe79.js",
+    "index.html": "/compount-layout-react/index.html",
+    "main.8f70261c.css.map": "/compount-layout-react/static/css/main.8f70261c.css.map",
+    "main.e219fe79.js.map": "/compount-layout-react/static/js/main.e219fe79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f70261c.css",
+    "static/js/main.e219fe79.js"
+  ]
+}
