@@ -1,0 +1,13 @@
+.root {
+  background-color: blue;
+  grid-area: main;
+  padding: 16px;
+}
+
+.heading {
+  margin: 0 0 8px 0;
+}
+
+.paragraph {
+  margin: 0;
+}
